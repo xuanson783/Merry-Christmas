@@ -2,7 +2,7 @@ const nameGirl = 'Lê Phương Thảo';
 
 const giftUrl = 'http://nodemy.vn';
 
-const eventName = 'chúc bạn giáng sinh vui vẻ hihi ^-^';
+const eventName = 'Merry Christmas hihi ^-^';
 const titleCard = 'Tặng người ấy🙄';
 const contentCard = 'Chúc bạn ngày giáng sinh tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với bạn trong hôm nay và cả những ngày sau';
 
