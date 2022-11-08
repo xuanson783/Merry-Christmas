@@ -4,7 +4,7 @@ const giftUrl = 'http://nodemy.vn';
 
 const eventName = 'Merry Christmas';
 const titleCard = 'Tặng người ấy🙄';
-const contentCard = 'Chúc bạn ngày giáng sinh tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với bạn trong hôm nay và cả những ngày sau';
+const contentCard = 'Chúc em ngày giáng sinh tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với em trong hôm nay và cả những ngày sau';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
